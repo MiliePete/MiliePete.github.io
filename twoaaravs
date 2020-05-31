@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>A poem about the 2 Aarav's</title>
+    </head>
+    <style>
+       #heading {font-family:Georgia,serif;
+	color:rgb(32, 189, 165);
+	font-variant: small-caps; text-transform: none; font-weight: 100; margin-bottom: 0; }
+	#strong{ font-style:italic; 
+	    color:rgb(240, 14, 150);
+	}
+	p{ 
+	    color:rgb(182, 48, 209);
+	    font-family:  'Century gothic', Georgia, 'Times New Roman', serif;
+	font-weight: normal;
+        font-size: 12.5px;
+	letter-spacing: .2em;
+	line-height: 1.1em;
+	margin:0px;
+	text-align:center;
+	    font-family:sans-serif;
+	}
+	.contents {
+	    color:rgb(176, 54, 224);
+	    font-family:Papyrus;
+	}
+	.posts{
+	    color:rgb(227, 93, 180);
+	    font-family:century gothic;
+	}
+	
+	.date{ font-size: 12px;
+	font-family: "Georgia";}
+	#contents{
+	    color:purple;
+	    font-family:serif;
+	}
+	#second-post{
+	    color:purple;
+	    font-family:serif;
+	}
+    </style>
+    <style>
+        #ya
+        {
+            font-family:monospace;
+            color:rgb(122, 138, 230);
+        }
+    </style>
+    <style>
+        #stuff
+        {
+            color:rgb(240, 62, 133);
+        }
+    </style>
+    <body>
+        
+        <h1 id="heading">A poem for both of the mister mr. Aarav's</h1>
+
+        <a href="#contents">Poem no.1</a>
+        <ul>
+            <li class="posts">First post!</li>
+            
+                
+            
+        </ul>
+        
+      <div id="ya">  <h2 id="contents">Aarav Sharma(I like to call him Aarav Shawarma)</h2>
+        
+        <ul>
+            <li>Aarav.S is not smart
+            <li>Everyone knows that
+            <li>He is struck by dumbness
+            <li>As well as disgustingness hat
+            <li>He likes to do gross stuff
+            <li>Like pick his nose
+            <li>Just talking about him wants to make me take a bath
+            <li>Somebody, grab the hose!
+            <li>He is so dumb as well
+            <li>From his toes
+            <li>to his head
+            <li>Only his parents can tell what he knows
+        </ul>
+        <span id="stuff"><h2>The end!</h2></span>
+        <h2 id="second-post">Aarav Agarwal( I like to call him Aarav Pagalwala[Crazy Man in hindi])</h2>
+        <ul>
+            <li>Aarav Agarwal is dumb
+            <li>And mean
+            <li>He is dirty
+            <li>I don't think he will ever be clean
+            <li>He is stinky
+            <li>You can smell him from the sky
+            <li>Everyone will soon say to him
+            <li>Good-bye!
+            <li>He is also the dumbest person
+            <li>I have ever met
+            <li>Is he an animal?
+            <li>Take him to the vet!
+        </ul>
+        </div>
+    </body>
+</html>
